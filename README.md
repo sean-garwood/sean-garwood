@@ -1,6 +1,5 @@
 - I am working through the Odin Project.
 - I will be focusing on back-end development for the time being. CCS is boring.
-- email: (replace the hyphen in my github username with an s)at gmail.
 - I sell Pokemon cards and retro/vintage games for fun. Feel free to check out the (very, very basic) [Mid-Atlantic Trading Cards landing page](https://matltc.com).
 
 <!---
