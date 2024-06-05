@@ -1,6 +1,4 @@
 ### Programming languages
- 
- #### Fluent
 * Ruby
 * Python
 * M for Power Query
